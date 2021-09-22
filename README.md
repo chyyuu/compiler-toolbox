@@ -1,7 +1,8 @@
 
 # Compiler Toolbox
 
-## usage
+## Usage
+```
 $cd $(COMPILER_TOOLBOX) // 进入repo目录
 $npm install http-server -g //安装简易http server in node.js ecosystem
 $http-server  //启动http server
@@ -14,6 +15,7 @@ Available on:
 Hit CTRL-C to stop the server
 
 Now you can visit http://127.0.0.1:8080 in a browser
+```
 
 ## Thanks
 Drived from https://github.com/CyberZHG/toolbox
