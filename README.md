@@ -1,11 +1,19 @@
 
 # Compiler Toolbox
+## Try it online
+https://chyyuu.gitee.io/compiler-toolbox/
 
-## Usage
+OR
+
+https://chyyuu.github.io/compiler-toolbox/
+
+## Install and try it locally
+
 ```
-$cd $(COMPILER_TOOLBOX) // 进入repo目录
-$npm install http-server -g //安装简易http server in node.js ecosystem
-$http-server  //启动http server
+$git clone https://gitee.com/chyyuu/compiler-toolbox.git //OR https://github.com/chyyuu/compiler-toolbox.git
+$cd $(COMPILER_TOOLBOX) // goto repo DIR
+$npm install http-server -g //install simple http server (you should install node.js)
+$http-server  //startup http server
 Starting up http-server, serving ./
 http-server settings:
 ...
